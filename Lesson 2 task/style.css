@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    background-color: aqua;
+  }
+  p {
+    background-color: rgb(222, 184, 135);
+    width: 200px;
+    height: 150px
+    
+    text-align: justify;
+    margin-bottom: 20px
+  }
+  
