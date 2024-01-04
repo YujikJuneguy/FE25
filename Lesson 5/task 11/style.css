@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.heading {
+    background-color: rgb(186, 186, 186);
+    text-align: center;
+    padding: 20px;
+    height: 195px;
+    margin: 0 auto;
+    width: 800px;
+}
+h1 {
+    padding: 30px 0px 20px 0px;
+   
+}
+h3 {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.navbar {
+   text-align: center;
+    height: 60px;
+   padding: 20px 70px 20px 70px;
+}
+.navbar a {
+    padding: 20px 70px 0px 70px;
+    text-decoration: none;
+    color: rgb(80, 80, 80);
+      
+}
+.tesla {
+    border: 1px solid rgb(177, 177, 177);
+    width: 800px;
+    padding: 20px;
+    margin: -40px auto;
+}
+h4 {
+    padding: 20px 0 20px 28px;
+}
+
+p {
+    padding-left: 65px;
+}
